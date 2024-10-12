@@ -1,4 +1,4 @@
-﻿using Chat;
+using Chat;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -51,11 +51,13 @@ namespace Chat
                 var user = users.FirstOrDefault(i => i.ID == id);
                 if (user != null)
                 {
-                    answer += ": " + user.Name + ":";
+                     
+                    answer += ": " + user.Name + ": ";  
                 }
                 answer += msg;
                 item.operationContext.GetCallbackChannel<IServerChatCallback>().MsgCallback(answer);
             }
         }
+
     }
 }
