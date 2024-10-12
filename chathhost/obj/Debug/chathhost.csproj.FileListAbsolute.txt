@@ -1,0 +1,11 @@
+C:\Users\shest\source\repos\Chat\chathhost\bin\Debug\chathhost.exe.config
+C:\Users\shest\source\repos\Chat\chathhost\bin\Debug\chathhost.exe
+C:\Users\shest\source\repos\Chat\chathhost\bin\Debug\chathhost.pdb
+C:\Users\shest\source\repos\Chat\chathhost\bin\Debug\Chat.dll
+C:\Users\shest\source\repos\Chat\chathhost\bin\Debug\Chat.pdb
+C:\Users\shest\source\repos\Chat\chathhost\bin\Debug\Chat.dll.config
+C:\Users\shest\source\repos\Chat\chathhost\obj\Debug\chathhost.csproj.AssemblyReference.cache
+C:\Users\shest\source\repos\Chat\chathhost\obj\Debug\chathhost.csproj.CoreCompileInputs.cache
+C:\Users\shest\source\repos\Chat\chathhost\obj\Debug\chathhost.csproj.Up2Date
+C:\Users\shest\source\repos\Chat\chathhost\obj\Debug\chathhost.exe
+C:\Users\shest\source\repos\Chat\chathhost\obj\Debug\chathhost.pdb
