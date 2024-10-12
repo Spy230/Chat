@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,7 +15,7 @@ namespace ChatHost
             using (var host = new ServiceHost(typeof(Chat.ServiceChat)))
             {
                 host.Open();
-                Console.WriteLine("Хост стартовал!");
+                Console.WriteLine("Host Start");
                 Console.ReadLine();
             }
         }
